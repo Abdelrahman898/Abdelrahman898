@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">A Data Science & Machine Learning Engineer</h3>
-
-- 📫 How to reach me **abdelrahmanelnabawy9@gmail.com**
+<h3 align="center">A Data Scientist & Machine Learning Engineer</h3>
 
 <p align="left">
 </p>
