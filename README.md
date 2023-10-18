@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
 <h3 align="center">A Data Scientist & Machine Learning Engineer</h3>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/abdelrahman-el-nabawy-240700187/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://abdelrahman898.github.io/"><img src="https://img.shields.io/badge/Website-%23E4415F?style=flat&logo=aboutdotme&logoColor=white"/></a>
+  </p>
+
+
+
+
+- 🔭 I’m a graduate with a bachelor's degree in Engineering.
+- ✍ I’m currently learning Natural language processing NLP and Transformer.
+- 📫 How to reach me: abdelrahmanelnabawy9@gmail.com
+
+<div align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman898&layout=compact" />
+</div>
 <p align="left">
 </p>
 
